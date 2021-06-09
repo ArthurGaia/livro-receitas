@@ -1,4 +1,4 @@
-# Livro de receitas :beers:
+# Livro de receitas :wave:
 
 Olá! Esse é meu livro de receitas!!
 
